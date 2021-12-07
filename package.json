@@ -1,4 +1,5 @@
 {
+  "homepage": "https://frangardev.github.io/cate-de-mi-corazon",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
